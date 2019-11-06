@@ -1,0 +1,10 @@
+name = "PATHlib_jll"
+uuid = "f56cabf9-9b38-5fec-ba65-673b1bb18264"
+version = "4.7.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
